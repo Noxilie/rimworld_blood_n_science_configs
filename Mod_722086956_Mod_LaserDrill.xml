@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="EnhancedDevelopment.LaserDrill.ModSettings_LaserDrill">
+		<RequiredDrillWork>500</RequiredDrillWork>
+		<RequiredFillWork>500</RequiredFillWork>
+		<AllowSimultaneousDrilling>False</AllowSimultaneousDrilling>
+	</ModSettings>
+</SettingsBlock>

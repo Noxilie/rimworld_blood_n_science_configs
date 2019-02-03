@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FishIndustry.Settings">
+		<fishRespawnFactor>1</fishRespawnFactor>
+		<biomeRestrictionsIsEnabled>True</biomeRestrictionsIsEnabled>
+	</ModSettings>
+</SettingsBlock>

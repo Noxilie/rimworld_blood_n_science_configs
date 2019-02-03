@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionControl.Settings_FactionOptions">
+		<factionCount>5.382629</factionCount>
+		<outlanderCivilMin>1</outlanderCivilMin>
+		<outlanderHostileMin>1</outlanderHostileMin>
+		<tribalCivilMin>1</tribalCivilMin>
+		<tribalHostileMin>1</tribalHostileMin>
+		<pirateMin>1</pirateMin>
+	</ModSettings>
+</SettingsBlock>

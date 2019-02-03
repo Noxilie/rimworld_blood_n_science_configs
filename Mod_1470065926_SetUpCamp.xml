@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Syrchalis_SetUpCamp.SetUpCampSettings">
+		<allowedSizeRange>50~300</allowedSizeRange>
+		<mapTimerDays>5</mapTimerDays>
+		<Timeout>40</Timeout>
+		<customMapGenDef>True</customMapGenDef>
+		<permanentCamps>True</permanentCamps>
+		<homeEvents>True</homeEvents>
+		<caravanEvents>True</caravanEvents>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CRC_Reintegrated.CRC_Loader+CRC_Settings">
+		<num_Points_Per_Colonist>45</num_Points_Per_Colonist>
+		<percent_Value_For_Buildings>25</percent_Value_For_Buildings>
+		<percent_Value_For_Armour>100</percent_Value_For_Armour>
+		<percent_Value_For_IndustrialWeapons>100</percent_Value_For_IndustrialWeapons>
+		<percent_Value_For_PreIndustrialWeapons>25</percent_Value_For_PreIndustrialWeapons>
+		<percent_Value_For_ReleasableAnimals>9</percent_Value_For_ReleasableAnimals>
+		<shouldLogDebugInfo>False</shouldLogDebugInfo>
+	</ModSettings>
+</SettingsBlock>

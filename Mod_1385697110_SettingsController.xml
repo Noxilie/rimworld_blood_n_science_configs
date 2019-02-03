@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ChangeDresser.Settings">
+		<ChangeDresser.ShowGenderAgeChange>True</ChangeDresser.ShowGenderAgeChange>
+		<ChangeDresser.ShowBodyChange>False</ChangeDresser.ShowBodyChange>
+		<ChangeDresser.IncludeColorByLayer>True</ChangeDresser.IncludeColorByLayer>
+		<ChangeDresser.PersistApparelOriginalColor>True</ChangeDresser.PersistApparelOriginalColor>
+		<ChangeDresser.ShareHairAcrossGenders>True</ChangeDresser.ShareHairAcrossGenders>
+	</ModSettings>
+</SettingsBlock>

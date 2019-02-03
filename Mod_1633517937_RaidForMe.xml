@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.RFM.Settings">
+		<chanceGetRaided>0.8099002</chanceGetRaided>
+	</ModSettings>
+</SettingsBlock>

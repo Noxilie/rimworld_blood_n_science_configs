@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RT_QuantumStorage.Settings">
+		<QuantumStorage.StockpileResearchStackIncrease>1</QuantumStorage.StockpileResearchStackIncrease>
+		<QuantumStorage.ChunkResearchStackIncrease>2</QuantumStorage.ChunkResearchStackIncrease>
+	</ModSettings>
+</SettingsBlock>
